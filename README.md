@@ -1,8 +1,8 @@
-# MovieFlix Authentication API 🎬
+# MovieFlix Authentication API
 
 A secure and scalable REST API for user authentication and management, built with **Spring Boot**. This project implements modern authentication practices, including **JWT tokens**, refresh token mechanisms, role-based access, and custom exception handling.
 
-## 🚀 Features
+## Features
 - User registration and login with secure password hashing.
 - Role-based access control using `UserRole` (Admin/User).
 - JSON Web Token (JWT) authentication and refresh tokens.
@@ -10,13 +10,13 @@ A secure and scalable REST API for user authentication and management, built wit
 - Validation for user inputs and request payloads.
 - MySQL database integration for user data persistence.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Backend**: Spring Boot (Java), Spring Security
 - **Database**: MySQL, JPA/Hibernate
 - **Tools**: IntelliJ IDEA, Postman
 - **Build**: Maven
 
-## 🏗️ Project Setup
+## Project Setup
 Follow these steps to run the project locally:
 
 1. Clone the repository:

@@ -2,7 +2,15 @@
 
 A secure and scalable REST API for user authentication and management, built with **Spring Boot**. This project implements modern authentication practices, including **JWT tokens**, refresh token mechanisms, role-based access, and custom exception handling.
 
-Take a Full look at how the features work through these screenshots:
+## Features
+- User registration and login with secure password hashing.
+- Role-based access control using `UserRole` (Admin/User).
+- JSON Web Token (JWT) authentication and refresh tokens.
+- Custom exception handling for better error reporting.
+- Validation for user inputs and request payloads.
+- MySQL database integration for user data persistence.
+
+- Take a Full look at how the features work through these screenshots:
 
 JWT Auth and CRUD: https://lnkd.in/dbfiUttJ
 
@@ -11,14 +19,6 @@ Exception Handling: https://lnkd.in/diNHgr75
 Pagination and Sorting: https://lnkd.in/dEJTeiVA
 
 Forgot Password and Reset: https://lnkd.in/dqqyDVWE
-
-## Features
-- User registration and login with secure password hashing.
-- Role-based access control using `UserRole` (Admin/User).
-- JSON Web Token (JWT) authentication and refresh tokens.
-- Custom exception handling for better error reporting.
-- Validation for user inputs and request payloads.
-- MySQL database integration for user data persistence.
 
 ## Tech Stack
 - **Backend**: Spring Boot (Java), Spring Security

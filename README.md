@@ -12,13 +12,13 @@ A secure and scalable REST API for user authentication and management, built wit
 
 Take a Full look at how the features work through these screenshots:
 
-JWT Auth and CRUD: https://lnkd.in/dbfiUttJ
+JWT Auth and CRUD: https://imgur.com/a/MFCdxE2
 
-Exception Handling: https://lnkd.in/diNHgr75
+Exception Handling: https://imgur.com/a/Kp2DVgI
 
-Pagination and Sorting: https://lnkd.in/dEJTeiVA
+Pagination and Sorting:https://imgur.com/a/pagination-sorting-wVppBKo
 
-Forgot Password and Reset: https://lnkd.in/dqqyDVWE
+Forgot Password and Reset:https://imgur.com/a/EABLRZd
 
 ## Tech Stack
 - **Backend**: Spring Boot (Java), Spring Security

@@ -10,7 +10,7 @@ A secure and scalable REST API for user authentication and management, built wit
 - Validation for user inputs and request payloads.
 - MySQL database integration for user data persistence.
 
-- Take a Full look at how the features work through these screenshots:
+Take a Full look at how the features work through these screenshots:
 
 JWT Auth and CRUD: https://lnkd.in/dbfiUttJ
 

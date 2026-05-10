@@ -1,4 +1,4 @@
-# MovieFlix Authentication API
+# Movie Authentication API
 
 A secure and scalable REST API for user authentication and management, built with **Spring Boot**. This project implements modern authentication practices, including **JWT tokens**, refresh token mechanisms, role-based access, and custom exception handling.
 
